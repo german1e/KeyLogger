@@ -1,0 +1,16 @@
+F:\YandexDisk\Sync\Applications\KeyLogger\KeyLogger\bin\Release\KeyLogger.exe.config
+F:\YandexDisk\Sync\Applications\KeyLogger\KeyLogger\bin\Release\KeyLogger.exe
+F:\YandexDisk\Sync\Applications\KeyLogger\KeyLogger\bin\Release\KeyLogger.pdb
+F:\YandexDisk\Sync\Applications\KeyLogger\KeyLogger\obj\Release\KeyLogger.exe
+F:\YandexDisk\Sync\Applications\KeyLogger\KeyLogger\obj\Release\KeyLogger.pdb
+F:\YandexDisk\Sync\Applications\KeyLogger\KeyLogger\obj\Release\KeyLogger.csprojResolveAssemblyReference.cache
+F:\YandexDisk\Sync\Applications\KeyLogger\KeyLogger\bin\Release\Ftp.dll
+F:\YandexDisk\Sync\Applications\KeyLogger\KeyLogger\bin\Release\Ftp.xml
+C:\Users\Narthrum\YandexDisk\Sync\Applications\KeyLogger\KeyLogger\bin\Release\KeyLogger.exe.config
+C:\Users\Narthrum\YandexDisk\Sync\Applications\KeyLogger\KeyLogger\obj\Release\KeyLogger.exe
+C:\Users\Narthrum\YandexDisk\Sync\Applications\KeyLogger\KeyLogger\obj\Release\KeyLogger.pdb
+C:\Users\Narthrum\YandexDisk\Sync\Applications\KeyLogger\KeyLogger\bin\Release\KeyLogger.exe
+C:\Users\Narthrum\YandexDisk\Sync\Applications\KeyLogger\KeyLogger\bin\Release\KeyLogger.pdb
+C:\Users\Narthrum\YandexDisk\Sync\Applications\KeyLogger\KeyLogger\bin\Release\Ftp.dll
+C:\Users\Narthrum\YandexDisk\Sync\Applications\KeyLogger\KeyLogger\bin\Release\Ftp.xml
+C:\Users\Narthrum\YandexDisk\Sync\Applications\KeyLogger\KeyLogger\obj\Release\KeyLogger.csprojResolveAssemblyReference.cache

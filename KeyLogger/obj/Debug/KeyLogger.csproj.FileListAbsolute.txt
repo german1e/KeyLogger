@@ -1,0 +1,11 @@
+F:\YandexDisk\Sync\Applications\KeyLogger\KeyLogger\bin\Debug\KeyLogger.exe
+F:\YandexDisk\Sync\Applications\KeyLogger\KeyLogger\bin\Debug\KeyLogger.pdb
+F:\YandexDisk\Sync\Applications\KeyLogger\KeyLogger\obj\Debug\KeyLogger.csprojResolveAssemblyReference.cache
+F:\YandexDisk\Sync\Applications\KeyLogger\KeyLogger\obj\Debug\KeyLogger.exe
+F:\YandexDisk\Sync\Applications\KeyLogger\KeyLogger\obj\Debug\KeyLogger.pdb
+F:\YandexDisk\Sync\Applications\KeyLogger\KeyLogger\bin\Debug\KeyLogger.exe.config
+F:\YandexDisk\Sync\Applications\KeyLogger\KeyLogger\bin\Debug\Ftp.dll
+F:\YandexDisk\Sync\Applications\KeyLogger\KeyLogger\bin\Debug\Ftp.xml
+C:\Users\Narthrum\YandexDisk\Sync\Applications\KeyLogger\KeyLogger\bin\Debug\KeyLogger.exe.config
+C:\Users\Narthrum\YandexDisk\Sync\Applications\KeyLogger\KeyLogger\obj\Debug\KeyLogger.exe
+C:\Users\Narthrum\YandexDisk\Sync\Applications\KeyLogger\KeyLogger\obj\Debug\KeyLogger.pdb
