@@ -25,7 +25,7 @@ namespace KeyLogger
             _timer.Elapsed += _timer_Elapsed;
             _timer.AutoReset = false;
 
-            _sendTimer.Interval = (1000 * 60) * 1;
+            _sendTimer.Interval = (1000 * 2) * 20;
             _sendTimer.Elapsed += _sendTimer_Elapsed;
             _sendTimer.AutoReset = true;
 

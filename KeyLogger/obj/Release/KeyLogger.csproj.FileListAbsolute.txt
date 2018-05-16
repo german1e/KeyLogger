@@ -14,3 +14,12 @@ C:\Users\Narthrum\YandexDisk\Sync\Applications\KeyLogger\KeyLogger\bin\Release\K
 C:\Users\Narthrum\YandexDisk\Sync\Applications\KeyLogger\KeyLogger\bin\Release\Ftp.dll
 C:\Users\Narthrum\YandexDisk\Sync\Applications\KeyLogger\KeyLogger\bin\Release\Ftp.xml
 C:\Users\Narthrum\YandexDisk\Sync\Applications\KeyLogger\KeyLogger\obj\Release\KeyLogger.csprojResolveAssemblyReference.cache
+F:\keylogger\KeyLogger-master\KeyLogger\bin\Release\KeyLogger.exe.config
+F:\keylogger\KeyLogger-master\KeyLogger\bin\Release\KeyLogger.exe
+F:\keylogger\KeyLogger-master\KeyLogger\bin\Release\KeyLogger.pdb
+F:\keylogger\KeyLogger-master\KeyLogger\bin\Release\Ftp.dll
+F:\keylogger\KeyLogger-master\KeyLogger\bin\Release\Ftp.xml
+F:\keylogger\KeyLogger-master\KeyLogger\obj\Release\KeyLogger.csproj.CoreCompileInputs.cache
+F:\keylogger\KeyLogger-master\KeyLogger\obj\Release\KeyLogger.csproj.CopyComplete
+F:\keylogger\KeyLogger-master\KeyLogger\obj\Release\KeyLogger.exe
+F:\keylogger\KeyLogger-master\KeyLogger\obj\Release\KeyLogger.pdb

